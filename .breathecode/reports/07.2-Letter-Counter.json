@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You have to use the console.log function once, at the end of the exercise",
+      "status": "passed"
+    },
+    {
+      "title": "Use a for loop",
+      "status": "passed"
+    },
+    {
+      "title": "Use the toLowerCase function to ignore capital letters",
+      "status": "passed"
+    },
+    {
+      "title": "Create the object with the letter counts like { a: 1, b: 4, ... }",
+      "status": "passed"
+    }
+  ]
+}

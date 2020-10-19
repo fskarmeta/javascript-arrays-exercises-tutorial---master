@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function deletePerson should exist",
+      "status": "passed"
+    },
+    {
+      "title": "Function deletePerson should return something",
+      "status": "passed"
+    },
+    {
+      "title": "console.log() function should have been called 3 times",
+      "status": "passed"
+    },
+    {
+      "title": "The output in the console should match the one in the instructions!",
+      "status": "passed"
+    }
+  ]
+}

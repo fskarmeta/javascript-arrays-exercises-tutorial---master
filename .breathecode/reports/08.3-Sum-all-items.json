@@ -1,0 +1,33 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 5,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You don't have to console.log anything, instead, you have to use the return statement inside the function",
+      "status": "passed"
+    },
+    {
+      "title": "Use a for loop",
+      "status": "passed"
+    },
+    {
+      "title": "Do not cheat using the function .forEach",
+      "status": "passed"
+    },
+    {
+      "title": "Testing for [2,13,34,5] should return 54",
+      "status": "passed"
+    },
+    {
+      "title": "Testing for [12,3,37,5] should return 57",
+      "status": "passed"
+    }
+  ]
+}

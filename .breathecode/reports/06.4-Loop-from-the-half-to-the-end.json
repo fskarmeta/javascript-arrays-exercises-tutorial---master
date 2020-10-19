@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Call the console.log function as many times as half of the amount of items in the array",
+      "status": "passed"
+    },
+    {
+      "title": "Print in the console as you loop the array",
+      "status": "passed"
+    }
+  ]
+}

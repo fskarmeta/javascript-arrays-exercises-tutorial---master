@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Call the console.log function just one time",
+      "status": "passed"
+    },
+    {
+      "title": "Print the array with 15 digits on the console",
+      "status": "passed"
+    },
+    {
+      "title": "The array arr should have 15 items",
+      "status": "passed"
+    }
+  ]
+}

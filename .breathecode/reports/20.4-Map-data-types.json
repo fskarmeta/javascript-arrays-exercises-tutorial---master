@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You have to use the console.log function to print the correct output",
+      "status": "passed"
+    },
+    {
+      "title": "You shouldn't delete the variable newArray",
+      "status": "passed"
+    },
+    {
+      "title": "The output in the console should match the one in the instructions!",
+      "status": "passed"
+    }
+  ]
+}

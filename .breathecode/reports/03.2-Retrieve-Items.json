@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "console.log() function should have been called 2 times",
+      "status": "passed"
+    },
+    {
+      "title": "Print the 1st item on the array (position 2)",
+      "status": "passed"
+    },
+    {
+      "title": "Print the 4th item of the array",
+      "status": "passed"
+    },
+    {
+      "title": "Do not print anything else",
+      "status": "passed"
+    }
+  ]
+}

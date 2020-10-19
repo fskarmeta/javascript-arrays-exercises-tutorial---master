@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Use the console.log function once to print the newArray on the console",
+      "status": "passed"
+    },
+    {
+      "title": "Don't use the revese function",
+      "status": "passed"
+    },
+    {
+      "title": "There needs to be a variable called mix with the original array",
+      "status": "passed"
+    },
+    {
+      "title": "Loop the array and console.log all of its item types",
+      "status": "passed"
+    }
+  ]
+}

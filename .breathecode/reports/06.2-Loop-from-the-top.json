@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Call the console.log function inside the loop",
+      "status": "passed"
+    },
+    {
+      "title": "Print the array from top to bottom, starting at mySampleArray.length-1 and ending at >= 0",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 2,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Call the console.log function on every cicle",
+      "status": "passed"
+    },
+    {
+      "title": "Print the numbers on the console on each loop cicle (inside the loop)",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 5,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You must use a for loop",
+      "status": "passed"
+    },
+    {
+      "title": "Remember that your for loop must start by declaring a variable let or var",
+      "status": "passed"
+    },
+    {
+      "title": "Call the console.log function as many times as items in the array",
+      "status": "passed"
+    },
+    {
+      "title": "Do not use the reverse function",
+      "status": "passed"
+    },
+    {
+      "title": "Loop the array in a reverse order and console.log all of its item",
+      "status": "passed"
+    }
+  ]
+}

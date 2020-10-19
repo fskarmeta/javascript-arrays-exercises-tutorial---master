@@ -9,4 +9,5 @@ let tasks = [
 	{ label: 'Make a trip', done: false }
 ];
 
-//your code here
+
+console.log(tasks.filter(a => a.done === true))

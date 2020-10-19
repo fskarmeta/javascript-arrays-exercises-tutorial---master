@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function mergeArrays should exist",
+      "status": "passed"
+    },
+    {
+      "title": "The returned array must contain everything item from firstArray",
+      "status": "passed"
+    },
+    {
+      "title": "The returned array must contain everything item from secondArray",
+      "status": "passed"
+    },
+    {
+      "title": "The length of the returned array should be equal to the sum of the length of first and second given arrays",
+      "status": "passed"
+    }
+  ]
+}

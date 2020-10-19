@@ -1,0 +1,21 @@
+{
+  "success": false,
+  "numFailedTestSuites": 1,
+  "numFailedTests": 2,
+  "numPassedTests": 0,
+  "testResults": [
+    {
+      "message": "\u001b[1m\u001b[31m  \u001b[1m● \u001b[1mYou have to use the console.log function\u001b[39m\u001b[22m\n\n    ReferenceError: contact is not defined\n\u001b[2m\u001b[22m\n\u001b[2m    \u001b[0m\u001b[31m\u001b[1m>\u001b[2m\u001b[39m\u001b[90m 1 | \u001b[39mcontact \u001b[33m=\u001b[39m {\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m   | \u001b[39m       \u001b[31m\u001b[1m^\u001b[2m\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 2 | \u001b[39m    fullname\u001b[33m:\u001b[39m \u001b[32m\"Jane Doe\"\u001b[39m\u001b[33m,\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 3 | \u001b[39m    phone\u001b[33m:\u001b[39m \u001b[32m\"321-321-4321\"\u001b[39m\u001b[33m,\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 4 | \u001b[39m    email\u001b[33m:\u001b[39m \u001b[32m\"test@test.com\"\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m\u001b[22m\n\u001b[2m      \u001b[2mat Object.<anonymous> (\u001b[2mexercises/19-And-One-and-a-Two-and-a-Three/app.js\u001b[2m:1:8)\u001b[2m\u001b[22m\n\u001b[2m      \u001b[2mat Object.<anonymous> (\u001b[2m\u001b[0m\u001b[36mexercises/19-And-One-and-a-Two-and-a-Three/test.js\u001b[39m\u001b[0m\u001b[2m:13:17)\u001b[2m\u001b[22m\n\n\u001b[1m\u001b[31m  \u001b[1m● \u001b[1mThe output in the console should match the one in the instructions!\u001b[39m\u001b[22m\n\n    \u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoMatch\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m\n\n    Expected substring: \u001b[32m\"fullname : Jane Doe\u001b[39m\n    \u001b[32mphone : 321-321-4321\u001b[39m\n    \u001b[32memail : test@test.com\"\u001b[39m\n    Received string:    \u001b[31m\"\"\u001b[39m\n\u001b[2m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 28 | \u001b[39m      _output\u001b[33m.\u001b[39mpush(_key \u001b[33m+\u001b[39m \u001b[32m\" : \"\u001b[39m \u001b[33m+\u001b[39m _contact[_key])\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 29 | \u001b[39m    }\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m\u001b[31m\u001b[1m>\u001b[2m\u001b[39m\u001b[90m 30 | \u001b[39m    expect(_buffer)\u001b[33m.\u001b[39mtoMatch(_output\u001b[33m.\u001b[39mmap(n \u001b[33m=>\u001b[39m n)\u001b[33m.\u001b[39mjoin(\u001b[32m\"\\n\"\u001b[39m))\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m    | \u001b[39m                    \u001b[31m\u001b[1m^\u001b[2m\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 31 | \u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 32 | \u001b[39m  })\u001b[33m;\u001b[39m\u001b[0m\u001b[22m\n\u001b[2m    \u001b[0m \u001b[90m 33 | \u001b[39m\u001b[0m\u001b[22m\n\u001b[2m\u001b[22m\n\u001b[2m      \u001b[2mat Object.<anonymous> (\u001b[2m\u001b[0m\u001b[36mexercises/19-And-One-and-a-Two-and-a-Three/test.js\u001b[39m\u001b[0m\u001b[2m:30:21)\u001b[2m\u001b[22m\n"
+    }
+  ],
+  "failed": [
+    {
+      "title": "You have to use the console.log function",
+      "status": "failed"
+    },
+    {
+      "title": "The output in the console should match the one in the instructions!",
+      "status": "failed"
+    }
+  ]
+}

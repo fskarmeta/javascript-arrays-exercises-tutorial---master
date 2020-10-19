@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Use the console.log function to print the numbers",
+      "status": "passed"
+    },
+    {
+      "title": "Use the forEach function",
+      "status": "passed"
+    },
+    {
+      "title": "We tried with a different array and the returning arrays don't match",
+      "status": "passed"
+    }
+  ]
+}

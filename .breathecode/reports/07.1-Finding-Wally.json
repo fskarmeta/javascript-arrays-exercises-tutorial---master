@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You have to use the console.log function inside the loop",
+      "status": "passed"
+    },
+    {
+      "title": "Use a for loop",
+      "status": "passed"
+    },
+    {
+      "title": "Use the toLowerCase function",
+      "status": "passed"
+    },
+    {
+      "title": "Loop and add a conditional to print the position (i) where wally was fund",
+      "status": "passed"
+    }
+  ]
+}

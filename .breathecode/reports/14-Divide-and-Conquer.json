@@ -1,0 +1,33 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 5,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Function mergeTwoList should exist",
+      "status": "passed"
+    },
+    {
+      "title": "Function mergeTwoList must return an array",
+      "status": "passed"
+    },
+    {
+      "title": "The returned array must contain inside all the odd items first",
+      "status": "passed"
+    },
+    {
+      "title": "The returned array must contain inside all the even items at the end",
+      "status": "passed"
+    },
+    {
+      "title": "The length of the returned array should be equal to the length of the original array",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 5,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Use the console.log function once to print the variable hello",
+      "status": "passed"
+    },
+    {
+      "title": "Use a for loop",
+      "status": "passed"
+    },
+    {
+      "title": "Use a condition 'if' statement only for items of type object",
+      "status": "passed"
+    },
+    {
+      "title": "Do not cheat using the function filter",
+      "status": "passed"
+    },
+    {
+      "title": "The new array \"hello\" should only contain the \"objects\" in myArray",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 3,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "Print theLastOne on the console",
+      "status": "passed"
+    },
+    {
+      "title": "Declare variable theLastOne",
+      "status": "passed"
+    },
+    {
+      "title": "theLastOne should have the value of the last element of myStupidArray",
+      "status": "passed"
+    }
+  ]
+}

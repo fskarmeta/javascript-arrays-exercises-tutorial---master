@@ -1,0 +1,29 @@
+{
+  "success": false,
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTests": 4,
+  "testResults": [
+    {
+      "message": null
+    }
+  ],
+  "failed": [
+    {
+      "title": "You should create the variable resultingNames.",
+      "status": "passed"
+    },
+    {
+      "title": "You have to use the console.log function to print the correct output.",
+      "status": "passed"
+    },
+    {
+      "title": "You should use the console.log to call the variable resultingNames",
+      "status": "passed"
+    },
+    {
+      "title": "The output in the console should match the one in the instructions!",
+      "status": "passed"
+    }
+  ]
+}
